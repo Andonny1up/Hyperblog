@@ -33,3 +33,12 @@ body
 #post{
     padding: 1em;
 }
+#footer{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    background-color: gray;
+    margin: 0%;
+    padding: 0;
+
+}
